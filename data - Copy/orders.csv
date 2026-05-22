@@ -1,0 +1,41 @@
+order_id,amount,status,city,created_at
+ORD0001,,completed,Martintown,2026-04-25 20:51:48
+ORD0002,,pending,Port David,2026-05-07 18:41:03
+ORD0003,,cancelled,Mirandafort,2026-05-19 19:09:58
+ORD0004,,completed,Davidfort,2026-05-08 21:18:45
+ORD0005,,cancelled,Teresafurt,2026-05-11 14:50:09
+ORD0006,,completed,West Clintonberg,2026-04-30 04:35:16
+ORD0007,,pending,East Brittany,2026-05-07 16:11:06
+ORD0008,,pending,West Timothyville,2026-05-13 12:33:44
+ORD0009,,returned,Port Elizabeth,2026-04-26 10:16:43
+ORD0010,,cancelled,South James,2026-05-22 03:08:27
+ORD0011,,pending,Wagnershire,2026-05-03 22:08:20
+ORD0012,,returned,Lucasfurt,2026-04-23 12:45:08
+ORD0013,,returned,South Wandaland,2026-05-06 07:39:00
+ORD0014,,cancelled,New Thomasfort,2026-05-05 15:55:58
+ORD0015,,completed,West Reginashire,2026-05-04 06:46:56
+ORD0016,,returned,Michealside,2026-05-21 07:43:20
+ORD0017,,completed,North Patrick,2026-04-30 19:21:42
+ORD0018,,cancelled,Jonesborough,2026-04-26 08:40:22
+ORD0019,,completed,Christinaside,2026-04-26 09:41:12
+ORD0020,,completed,Pamelaburgh,2026-05-08 19:25:02
+ORD0021,,returned,Keithville,2026-05-06 03:54:47
+ORD0022,,completed,New Bradleyton,2026-04-28 17:33:28
+ORD0023,,pending,Jeremiahbury,2026-05-18 06:25:36
+ORD0024,,pending,Sarahland,2026-05-20 13:58:57
+ORD0025,,completed,Melissashire,2026-05-03 19:05:00
+ORD0026,,pending,New Brendaton,2026-05-22 18:11:20
+ORD0027,,returned,East Nicholashaven,2026-05-20 23:46:08
+ORD0028,,completed,North Kristyton,2026-04-24 23:37:01
+ORD0029,,pending,West Randyburgh,2026-05-06 01:26:18
+ORD0030,,cancelled,Aprilstad,2026-05-08 17:21:12
+ORD0031,,returned,Morganmouth,2026-05-02 06:20:18
+ORD0032,,returned,Thomasberg,2026-05-05 15:07:45
+ORD0033,,pending,East Samanthaview,2026-05-10 05:25:58
+ORD0034,,returned,South Michaelmouth,2026-05-17 00:27:01
+ORD0035,,returned,New Zachary,2026-05-19 13:54:54
+ORD0036,,pending,Kristinamouth,2026-05-20 18:32:08
+ORD0037,,pending,South Steven,2026-04-30 07:15:01
+ORD0038,,returned,Davidville,2026-05-04 16:49:22
+ORD0039,,pending,Roseton,2026-05-12 22:41:24
+ORD0040,,completed,Ramosshire,2026-04-29 14:58:00
